@@ -9,6 +9,8 @@
   \     / 
   `----' 
     
+  <p align="center"><strong>In love with coffee</strong></p>
+  
   ``` </pre>
 
-<h3 align="center">In love with coffee</h3>
+
